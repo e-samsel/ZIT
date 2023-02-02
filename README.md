@@ -4,9 +4,9 @@ System monitorowania otwartych portów z funkcją porównania z wzrocowym zestaw
 
 
 ---------Biblioteki--------- <br />
-Do monitorowania portów używana jest biblioteka socket. Dokumentacja biblioteki dostępna jest pod adresem:
+Do monitorowania portów używana jest biblioteka socket. Dokumentacja biblioteki dostępna jest pod adresem: <br />
 https://docs.python.org/3/library/socket.html
-Następnie użyte są biblioteki time i pyautogui w celu utworzenia alertu wyskakującego na ekran komputera z systemem operacyjnym dystrybucji Linux. Dokumentacje tych bibliotek dostępne są tu:
+Następnie użyte są biblioteki time i pyautogui w celu utworzenia alertu wyskakującego na ekran komputera z systemem operacyjnym dystrybucji Linux. Dokumentacje tych bibliotek dostępne są tu: <br />
 https://docs.python.org/3/library/time.html <br />
 https://pypi.org/project/PyAutoGUI/
 
