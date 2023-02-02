@@ -20,4 +20,4 @@ Program importuje plik "ports.txt" w celu uzyskania listy portówm które powinn
 ---------Działanie--------- <br />
 Skrypt działa analizując co 10 sekund porty wymienione w pliku "ports.txt". Po uruchomieniu go użytkownik zostaje zapytany o adres hosta, którego chce skanować. Należy podać go w formacie X.X.X.X, gdzie poszczególne X zamieniamy kolejnymi oktetami adresu naszego hosta.
 
-W momencie pojawienia się "Starting scan on host: X.X.X.X" program zaczyna skan. W momencie otworzenia się portu pojawi się alert bezpieczeństwa przedstawiony na obrazku alert.jpg
+W momencie pojawienia się "Starting scan on host: X.X.X.X" program zaczyna skan. W momencie otworzenia się portu pojawi się alert bezpieczeństwa przedstawiony na obrazku alert.png
